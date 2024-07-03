@@ -1,0 +1,14 @@
+transformers
+datasets
+torch
+pandas
+numpy
+scikit-learn
+accelerate
+# faiss-gpu
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+PyMuPDF
+tf-keras
