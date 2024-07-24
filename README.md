@@ -25,7 +25,7 @@ To run the RAGFeynman application locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<USERNAME>/RAGFeynman.git
+    git clone https://github.com/Yadukrishnan1/RAGFeynman.git
     cd RAGFeynman
     ```
 
